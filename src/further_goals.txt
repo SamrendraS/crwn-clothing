@@ -1,0 +1,12 @@
+Further aims for project:
+    1. Product Page
+    2. Payments with Stripe (Testing Mode)
+    3. Featured Products
+    4. Recently Viewed Products
+    5. Deploying to Heroku
+
+What could've been done better:
+    1. Underestimated scale of state, began with using only React state
+    2. Might choose to use simpler state management such as mobx
+    3. Styling is time consuming and not straightforward, use library such as material ui
+    4. Explore MongoDB as a NoSQL option, learn more about SpringBoot
